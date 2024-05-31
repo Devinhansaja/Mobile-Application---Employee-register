@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/loginll">
+
+    <!-- Greeting TextView -->
+
+
+    <!-- Email input field -->
+    <EditText
+        android:id="@+id/usernameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:layout_marginTop="16dp"
+        android:hint="@string/username"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:inputType="text"
+        android:background="@drawable/blue_border"
+        android:layout_marginBottom="-10dp"/>
+
+    <!-- Password input field -->
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/usernameEditText"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="-400dp"
+        android:background="@drawable/blue_border"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black" />
+
+    <!-- Login button -->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:layout_below="@id/passwordEditText"
+        android:layout_marginTop="470dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee-register</string>
+    <string name="enter_n_i_c_number">Enter N.I.C Number</string>
+    <string name="search">Search</string>
+    <string name="employee_name">Employee Name:</string>
+    <string name="employee_field">Employee Field:</string>
+    <string name="employee_number">Employee Number:</string>
+</resources>

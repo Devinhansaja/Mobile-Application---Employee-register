@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299271077080",
+    "project_id": "employee-register-1b8be",
+    "storage_bucket": "employee-register-1b8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299271077080:android:7d0be2c11add3baf00abad",
+        "android_client_info": {
+          "package_name": "com.example.employee_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8M8moM1H5ddRrs8-GdX5QAn3q2ndyn78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

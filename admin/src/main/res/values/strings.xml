@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="upload">Upload</string>
+    <string name="enter_empolyee_name">Enter Empolyee name</string>
+    <string name="enter_employee_field">Enter employee feild</string>
+    <string name="enter_employee_nic">Enter work ID</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="save">Save</string>
+    <string name="app_namee">Employee-register</string>
+    <string name="enter_n_i_c_number">Enter work ID</string>
+    <string name="search">Search</string>
+    <string name="employee_name">Employee Name:</string>
+    <string name="employee_field">Employee Field:</string>
+    <string name="employee_number">Employee Number:</string>
+    <string name="update">Update</string>
+    <string name="updatekjn">Update</string>
+    <string name="password">Password</string>
+    <string name="username">E-mail</string>
+    <string name="login">Login</string>
+    <string name="employee_register">Employee-Register</string>
+    <string name="searchk">Search</string>
+    <string name="search_here">Search here</string>
+    <string name="searchh">Search</string>
+    <string name="enter_work_id">Enter work ID</string>
+</resources>
